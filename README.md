@@ -1,18 +1,50 @@
 
-- 👋 Hi, I’m @Hameshinduwara
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<h3 align="center">A passionate frontend developer from India</h3>
+## Hameshinduwara's GitHub Profile
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hameshinduwara" alt="hameshinduwara" /></a> </p>
+Welcome to my GitHub! 🚀  
+Here, you'll find a collection of projects that reflect my passion for technology, problem-solving, and innovation.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🌟 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🔭 **Current Focus**: Working on balastic-cal.  
+- 🌱 **Learning Goals**: Exploring balastic and enhancing skills in arduino.  
+- 💬 **Ask Me About**: balastic- consept.  
+- 📫 **Contact**: Reach out via https://web.facebook.com/hameshinduvara or connect on https://www.linkedin.com/in/hamesh-vitharama-01825431a/.
+
+---
+
+## 🛠️ Projects
+
+Here are some of my notable repositories:
+
+### 1. **ballistic-calculater(#)**  
+   - **Description**: Ballistics is the field of mechanics concerned with the launching,<br>flight behaviour and impact effects of projectiles,<br>especially ranged weapon munitions.  
+   - **Technologies**: Python,Arduino,c++
+
+
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hameshinduwara&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hameshinduwara&layout=compact&theme=radical)
+
+---
+
+## 🌐 Contributions & Open Source
+
+I'm passionate about contributing to open-source projects. If you have an exciting project or need collaboration, feel free to reach out!
+
+---
+
+## 📜 License
+
+This repository and its contents are licensed under the **https://github.com/Hameshinduwara/ballistic-calculater?tab=Apache-2.0-1-ov-file# (LICENSE)** unless stated otherwise.
+
+---
+
+**Thank you for visiting my GitHub profile! Stay tuned for more updates and cool projects. Feel free to fork or star my repositories.** 🌟
+
 
